@@ -1,6 +1,16 @@
-# vue3-tailwindcss-boilerplate
+# Vue3 Development Suite Boilerplate
 
-This template should help get you started developing with Vue 3 in Vite.
+This boilerplate is already set up and configured to let you immediatly start developing. It includes the following stack:
+
+- [Vue v3](https://vuejs.org/)
+- [Vue Router v4](https://router.vuejs.org/)
+- [Vite v4](https://vitejs.dev/)
+- [Vitest](https://vitest.dev/)
+- [Pinia v2](https://pinia.vuejs.org/)
+- [TailwindCSS v3](https://tailwindcss.com/)
+- [Supabase v2](https://supabase.com/docs/reference/javascript/installing)
+- [ESLint v8](https://eslint.org/)
+- [Prettier v2](https://prettier.io/)
 
 ## Recommended IDE Setup
 
